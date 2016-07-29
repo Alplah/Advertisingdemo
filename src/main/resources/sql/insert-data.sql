@@ -1,0 +1,17 @@
+INSERT INTO Creatives (Id, Description, Url, Os, Country, Excluded_Os, Excluded_Countries)
+VALUES (1, 'Description1', 'Url1', 'Os', 'Country', 'Excluded_Os', 'Excluded_Countries'),
+(2, 'Description2', 'Url2', 'Os1', 'Country1', 'Excluded_Os', 'Excluded_Countries'),
+(3, 'Description3', 'Url1', 'Os2', 'Country2', 'Excluded_Os', 'Excluded_Countries'),
+(4, 'Description4', 'Url3', 'Os3', 'Country3', 'Excluded_Os', 'Excluded_Countries'),
+(5, 'Description5', 'Url4', 'Os4', 'Country4', 'Excluded_Os', 'Excluded_Countries'),
+(6, 'Description6', 'Url5', 'Os5', 'Country5', 'Excluded_Os', 'Excluded_Countries'),
+(7, 'Description7', 'Url6', 'Os1', 'Country6', 'Excluded_Os', 'Excluded_Countries'),
+(8, 'Description8', 'Url7', 'Os2', 'Country7', 'Excluded_Os', 'Excluded_Countries'),
+(9, 'Description9', 'Url8', 'Os3', 'Country8', 'Excluded_Os', 'Excluded_Countries'),
+(10, 'Description10', 'Url9', 'Os4', 'Country9', 'Excluded_Os', 'Excluded_Countries'),
+(11, 'Description11', 'Url10', 'Os5', 'Country10', 'Excluded_Os', 'Excluded_Countries'),
+(12, 'Description12', 'Url11', 'Os1', 'Country1', 'Excluded_Os', 'Excluded_Countries'),
+(13, 'Description13', 'Url12', 'Os2', 'Country2', 'Excluded_Os', 'Excluded_Countries'),
+(14, 'Description14', 'Url13', 'Os3', 'Country3', 'Excluded_Os', 'Excluded_Countries'),
+(15, 'Description15', 'Url14', 'Os4', 'Country4', 'Excluded_Os', 'Excluded_Countries'),
+(16, 'Description16', 'Url15', 'Os5', 'Country5', 'Excluded_Os', 'Excluded_Countries');
